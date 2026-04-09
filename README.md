@@ -223,14 +223,10 @@ If you use this work, please cite:
 ```bibtex
 @misc{scam_campaign_discovery_2025,
   title   = {Multilingual Scam Campaign Discovery via Semantic Clustering},
-  author  = {[Kavya Garg]},
+  author  = {Kavya Garg, Kanika Chauda, Dhriti Reddy, Fathimathul Zenha K P },
   year    = {2025},
-  url     = {https://github.com/[Kavya-Garg003}
+  url     = {https://github.com/Kavya-Garg003/Cross-Lingual-Scam-Campaign-Discovery-via-Multilingual-Semantic-Clustering}
 }
 ```
 
----
 
-## License
-
-MIT License. See `LICENSE` for details.
